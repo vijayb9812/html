@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-B" />
+  <meta name="viewport" content="width-device-width,  intial-scale=1.0" />
+  <title>forms</title>
+</head>
+
+<body>
+  <fieldset>
+    <form>
+      <div class="form-group">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <lable type="mname">Midle Name:</lable><br>
+        <input type="text" id="mname" name="mname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname">
+      </div>
+      <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="text" class="form-control form-data" id="Email">
+        <select name="" id="">
+          <option value="">@gmail.com</option>
+          <option value="">@outlook.com</option>
+          <option value="">@yahoo.com</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="Age">Age</label>
+        <input type="text" class="form-control form-data" id="Age">
+      </div>
+      <div class="form-group">
+        <label for="Company">Company</label>
+        <input type="text" class="form-control form-data" id="Company">
+      </div>
+      <div class="form-group">
+        <label for="Mob">Mob</label>
+        <input type="number" class="form-control form-data" id="Mob">
+      </div>
+      <div>
+        <input type="checkbox" /> A declaration typically affirms the truthfulness and accuracy of the information
+        provided in a document or statement.
+      </div>
+      <div>
+        <input type="radio" />YES <input type="radio" />NO <br>
+        <input type="file" /> <br>
+        password<input type="password" /><br>
+        <input type="date" /> <br>
+        <input type="hidden"/>
+      </div>
+      <div>
+        <input type="button" value="submit" />
+      </div>
+    </form>
+  </fieldset>
+</body>
+
+</html>
