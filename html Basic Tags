@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basic HTML</title>
+</head>
+<body>
+   <h3>WEB DEVELOPER</h3>
+   <ul>
+      <li>Frontend Developer</li>
+      <li>Backend Developer</li>
+   </ul>
+   <h3>Frontend Developer</h3>
+   <p>HTML,CSS,JAVA SCRIPT and REACT</p>
+   <h3>Backend Developer</h3>
+   <p>node JS</p>
+   <P>Express JS</P>
+   <p>MondoDB</p><br>
+   <p>User.......>Frontend Developer........>Backend Developer.......>Database</p>
+   <p>User<.......Frontend Developer<........Backend Developer<.......Database</p><br>
+       <h3>HTML</h3>
+       <h4>website</h4>
+       <ol type="1">
+         <li> Pages</li>
+         <ul type="circle">
+             <li>One.html</li>
+             <li>Two.html</li>
+         </ul>
+         <li>Styles</li>
+         <ul type="circle">
+             <li>One.css</li>
+             <li>Two.css</li>
+         </ul>
+         
+         <li>Script</li>
+         <ul type="A">
+             <li>One.Script</li>
+             <li>Two.Script</li>
+         </ul>
+         <li>Media</li>
+         <ul type="A">
+             <li>LOgo,png,jpg,pdf,images......</li>
+         </ul>
+         <li>Others</li>
+         <ul type="A">
+         </ul>
+         <li>index.html</li>
+         </ul>
+       <h4>example of html website link</h4>
+       <p><a href="https://vijay.com">click here</a></p>
+       <ul>
+         <li>Opening tag</li>
+         <li>Attribute</li>
+         <li>Attribute value</li>
+         <li>Text Content</li>
+         <li>Closing Tag</li>
+       </ul>
+
+
+   <h1>First Heading</h1>
+   <h2>Second Heading</h2>
+   <h3>Third Heading</h3>
+   <h4>Forth Heading</h4>
+   <h5>Fifth Heading</h5>
+   <h6>Sixth Heading</h6>
+   <p>paragraph   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+   <hr />
+   <p>paragraph   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+   <p> <b>Bold Tag</b>   Lorem Ipsum is simply dummy text of the printing and <b>typesetting industry.</b> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum </p>
+   <p><u>under line tag</u>   <u>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</u> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+</body>
+</html>
